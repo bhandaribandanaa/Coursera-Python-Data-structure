@@ -1,4 +1,10 @@
-** Coursera-Python-Data-structure**
+**Coursera-Python-Data-structure**
+It consist different chapters which are listed as:
+1. **String**
+2. **Files**
+3. **List**
+4. **Dictionaries**
+5. **Tuples**
 
 ---
 **Chapter wise assigments of Coursera, Python Data Structure:**
