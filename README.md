@@ -1,5 +1,5 @@
 **Coursera-Python-Data-structure**
-It consist different chapters which are listed as:
+consist different chapters which are listed as:
 1. **String**
 2. **Files**
 3. **List**
